@@ -1,6 +1,7 @@
-# PO_project1
+# Projekt Programowanie Obiektowe
 Project nr 1 na zajęcia z Programowania Obiektowego. Autor: Marcin Świątkowski, Informatyka Data Science
 
+Krótki opis zadania: stworzyć symulator środowiska, w którym żyją, rozmnażają się i umierają zwierzęta.
 
 To, co udało mi się zrobić (w nawiasach podane są nazwy plików i fragmentów kodu odpowiedzialnych za daną implementację):
 + utworzone menu pozwalające ustawić: rozmiar mapy, ilość zwierząt, ilość roślin, ilość energii startowej, wielkość kosztu ruchu, ilość energii z pożywienia (<code>App.java</code>)
